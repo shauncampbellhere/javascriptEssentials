@@ -5,7 +5,6 @@
 var count = 0;
  
 function cc(card) {
-  // Only change code below this line
  
   if(card >= 2 && card <= 6){
     count++;
